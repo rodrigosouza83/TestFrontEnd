@@ -1,0 +1,6 @@
+require 'rspec'
+require 'capybara'
+require 'cucumber'
+require 'capybara/cucumber'
+require 'selenium-webdriver'
+require 'faker'
